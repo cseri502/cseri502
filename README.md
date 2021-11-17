@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cseri502.
+- 👀 I’m interested in front-end development. (But I usually write back-end codes. 🙄) 
+- 🌱 I’m currently learning C languages.
+- 👑 I'm the Chairman of the Sarcasm Council.
+- 🤙 All in all, I'm a decent guy.
