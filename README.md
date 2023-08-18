@@ -11,7 +11,7 @@
   <a href="https://discordapp.com/users/353618699661475841/">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="My Discord"/>
   </a>
-  <a href="mailto:cseresznyesdavid1@gmail.com">
+  <a href="mailto:cseresznyesdavid1@outlook.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="My Email"/>
   </a>
 
