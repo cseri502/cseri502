@@ -24,7 +24,7 @@
 ## 🧑‍💻 About
 
 <p>I'm <b>David</b>; an enthusiastic software developer from Hungary.</p>
-<p>I'm currently learning to be a <i>System Administrator</i> in <a href="https://www.dszcmechwart.hu/">DSZC Mechwart</a>.</p>
+<s>I'm currently learning to be a <i>System Administrator</i> in <a href="https://www.dszcmechwart.hu/">DSZC Mechwart</a>.</s>
 
 ## 🚀 Technologies & Tools
 
