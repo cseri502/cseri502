@@ -24,7 +24,8 @@
 ## 🧑‍💻 About
 
 <p>I'm <b>David</b>; an enthusiastic software developer from Hungary.</p>
-<s>I'm currently learning to be a <i>System Administrator</i> in <a href="https://www.dszcmechwart.hu/">DSZC Mechwart</a>.</s>
+<p>I'm currently learning <i>Computer Science</i> at <a href="https://inf.unideb.hu/">DE-IK</a>.</p>
+<s>I'm currently learning to be a <i>System Administrator</i> at <a href="https://www.dszcmechwart.hu/">DSZC Mechwart</a>.</s>
 
 ## 🚀 Technologies & Tools
 
