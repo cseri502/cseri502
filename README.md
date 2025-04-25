@@ -14,6 +14,9 @@
   <a href="mailto:cseresznyesdavid1@outlook.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="My Email"/>
   </a>
+  <a href="https://cseri502.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0086FF?style=for-the-badge&logo=safari&logoColor=white" alt="My Portfolio"/>
+  </a>
 
   ![](https://komarev.com/ghpvc/?username=cseri502&style=for-the-badge)
   
